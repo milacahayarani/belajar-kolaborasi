@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Sangat menyenangkan!
+Sangat menyenangkan jika belajar di Dicoding.
